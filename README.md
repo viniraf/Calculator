@@ -3,7 +3,7 @@
 ## Informações 
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
-* O projeto é uma pagina web com uma calculadora;
+* O projeto é uma página web com uma calculadora;
 * É possível fazer as quatro operaões matemáticas;
 * Caso os números no visor fiquem maior que ele, é adicionado uma barra de rolagem personalizada.
 
@@ -17,4 +17,3 @@
 
 * Este projeto foi construído utilizando uma vídeo aula no youtube como inspiração;
 * Créditos ao [Canal Gustavo Neitzke](https://www.youtube.com/c/GustavoNeitzke).
-
