@@ -10,7 +10,7 @@
 ## Conhecimentos utilizados 
 
 * Centralização de div;
-* Overflow para evitar os números ficarem para fora do visor da calculadora;
+* Overflow para evitar com que os números fiquem para fora do visor da calculadora;
 * Web-kit para personalizar a barra de rolagem.
 
 ## Considerações
