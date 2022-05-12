@@ -1,5 +1,3 @@
-# Calculator
-
 ## Informações 
 
 * Esse é um projeto feito para treinar minhas habilidades de front-end, com foco no CSS;
